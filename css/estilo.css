@@ -26,3 +26,19 @@ h2, h3, h4, h5, h6{
 	width: 960px;
 	margin: auto;
 }
+
+a{color: #E3AE57}
+
+.redes-sociais li{display: inline-block; margin: 0 5px;}
+.redes-sociais li a{display: inline-block;}
+
+.redes-sociais li span{width: 48px; height: 48px; background-repeat: no-repeat; overflow: hidden; text-indent: 7000px; display: inline-block;}
+
+.github{background-image: url('../img/github.png'); -webkit-filter: greyscale(100%); filter: greyscale(0%);}
+.github:hover{-webkit-filter: greyscale(0%); filter: greyscale(0%);}
+
+.facebook{background-image: url('../img/facebook.png'); -webkit-filter: greyscale(100%); filter: greyscale(0%);}
+.facebook:hover{-webkit-filter: greyscale(0%); filter: greyscale(0%);}
+
+.devcard{background-image: url('../img/devcard.png'); -webkit-filter: greyscale(100%); filter: greyscale(0%);}
+.devcard:hover{-webkit-filter: greyscale(0%); filter: greyscale(0%);}
