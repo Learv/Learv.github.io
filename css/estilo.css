@@ -1,1 +1,13 @@
 /* estilo.css */
+
+h1{ /*título - nome*/ 
+	font-family: 'Lobster', cursive;
+}
+
+body{
+	font-family: 'Josefin Slab', serif;	
+}
+
+h2, h3, h4, h5, h6{
+	font-family: 'Arvo', serif;
+}
